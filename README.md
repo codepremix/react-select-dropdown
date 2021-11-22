@@ -3,7 +3,7 @@ How to create a dropdown in React using react-select
 
 ## Documentation
 
-[https://www.codepremix.com/how-to-create-a-dropdown-in-react-using-react-select](https://www.codepremix.com/how-to-create-a-dropdown-in-react-using-react-select)
+[https://codepremix.com/how-to-create-a-dropdown-in-react-using-react-select](https://codepremix.com/how-to-create-a-dropdown-in-react-using-react-select)
 
 ## Quick Start
 
